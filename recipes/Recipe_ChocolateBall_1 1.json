@@ -1,0 +1,39 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "Recipe_ChocolateBall_1 1",
+	"m_PrefabAsset": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 3561183746538219434 },
+	"m_Structure": {
+		"createsItem": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": -7464506992403286108 },
+		"quantityCreated": 6,
+		"itemsNeeded": [
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": -8199466475927202420 },
+				"quantity": 1
+			},
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 8296372714667799805 },
+				"quantity": 1
+			},
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 4772974872624875826 },
+				"quantity": 1
+			},
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": -1078699558178737998 },
+				"quantity": 1
+			},
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 3412397503842240151 },
+				"quantity": 1
+			}
+		],
+		"canBeCrafted": 1
+	}
+}

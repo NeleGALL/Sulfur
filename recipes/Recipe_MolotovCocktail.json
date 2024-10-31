@@ -1,0 +1,27 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-9dae504cc9468f496f4be946eb6e15cd", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-9dae504cc9468f496f4be946eb6e15cd", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "Recipe_MolotovCocktail",
+	"m_PrefabAsset": { "m_Collection": "cab-9dae504cc9468f496f4be946eb6e15cd", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-9dae504cc9468f496f4be946eb6e15cd", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-9dae504cc9468f496f4be946eb6e15cd", "m_PathID": 3561183746538219434 },
+	"m_Structure": {
+		"createsItem": { "m_Collection": "cab-9dae504cc9468f496f4be946eb6e15cd", "m_PathID": 3448642830689139634 },
+		"quantityCreated": 1,
+		"itemsNeeded": [
+			{
+				"item": { "m_Collection": "cab-9dae504cc9468f496f4be946eb6e15cd", "m_PathID": -7500051334425714247 },
+				"quantity": 1
+			},
+			{
+				"item": { "m_Collection": "cab-9dae504cc9468f496f4be946eb6e15cd", "m_PathID": 1087302889393459375 },
+				"quantity": 1
+			}
+		],
+		"canBeCrafted": 1
+	}
+}

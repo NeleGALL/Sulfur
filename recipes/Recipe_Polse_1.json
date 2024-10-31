@@ -1,0 +1,27 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "Recipe_Polse_1",
+	"m_PrefabAsset": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 3561183746538219434 },
+	"m_Structure": {
+		"createsItem": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": -7860939985034262392 },
+		"quantityCreated": 1,
+		"itemsNeeded": [
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": -7933371039172440771 },
+				"quantity": 1
+			},
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 2858632851210039811 },
+				"quantity": 1
+			}
+		],
+		"canBeCrafted": 1
+	}
+}

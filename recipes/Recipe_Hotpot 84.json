@@ -1,0 +1,43 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "Recipe_Hotpot 84",
+	"m_PrefabAsset": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 3561183746538219434 },
+	"m_Structure": {
+		"createsItem": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": -147642938013211937 },
+		"quantityCreated": 2,
+		"itemsNeeded": [
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": -4023390592113091931 },
+				"quantity": 2
+			},
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 8412289331563711294 },
+				"quantity": 2
+			},
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 2853782356795245239 },
+				"quantity": 2
+			},
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": -7836329415250759633 },
+				"quantity": 2
+			},
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": 4217895260044241117 },
+				"quantity": 2
+			},
+			{
+				"item": { "m_Collection": "cab-ab968c8d966ae8e0245d1302aef6e27b", "m_PathID": -8334352217816567940 },
+				"quantity": 1
+			}
+		],
+		"canBeCrafted": 1
+	}
+}
